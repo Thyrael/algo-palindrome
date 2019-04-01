@@ -1,9 +1,9 @@
-# Palindrom Algorithm
+# Palindrome Algorithm
 
 By Baraffe Robin (https://twitter.com/RobinBaraffe).
 
 ## Description
-**Application Name Here** description can be listed here.
+**Palindrome Algorithm** description can be listed here.
 
 **In Javascript folder**, there is a simple html file that use a javascript function to ckeck if the value given by the input field is a palindrome or not.
 
