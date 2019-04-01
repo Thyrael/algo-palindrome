@@ -21,11 +21,13 @@ Usage explanation goes here.
 
 In go folder, run 
 
-``` go build 
+```console
+go build 
 ```
 Then, call the executable file 
 
-``` palindrome.exe [YourWordToTest]
+```console
+palindrome.exe [YourWordToTest]
 ```
 
 ## Authors
